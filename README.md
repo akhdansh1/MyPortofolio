@@ -61,15 +61,16 @@ npm install
 # Jalankan lokal
 npm run start
 
-## 🌐 Deployment
-Website ini dideploy ke Vercel.
-Link Live: https://my-portofolio-brown-five.vercel.app/
 
 ## 📞 Kontak
-Jika tertarik untuk bekerja sama atau berdiskusi:
 
-Email: akhdanshalahudin@gmail.com
+Jika kamu tertarik untuk bekerja sama atau berdiskusi lebih lanjut, silakan hubungi saya melalui:
 
-LinkedIn: https://linkedin.com/in/namakamu
+- ✉️ Email: akhdanshalahudin@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/akhdan-shalahudin-12232b271/
+- 📷 Instagram: @akhdansh_
+---
 
-Instagram: @akhdansh_
+Terima kasih telah melihat portofolio saya! 🙌  
+Jangan ragu untuk memberikan feedback atau saran 💡
+
