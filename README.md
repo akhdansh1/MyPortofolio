@@ -61,11 +61,11 @@ npm install
 # Jalankan lokal
 npm run start
 
-# 🌐 Deployment
+## 🌐 Deployment
 Website ini dideploy ke Vercel.
 Link Live: https://my-portofolio-brown-five.vercel.app/
 
-# 📞 Kontak
+## 📞 Kontak
 Jika tertarik untuk bekerja sama atau berdiskusi:
 
 Email: akhdanshalahudin@gmail.com
